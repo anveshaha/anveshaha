@@ -3,7 +3,7 @@
 
 ### Tech Stack & Tools
 
-* **Languages:** Python, C, C++, SQL, Bash
+* **Languages:** Python, C, C++, Bash
 * **Libraries & Frameworks:** Pandas, NumPy, OpenCV, MediaPipe
 * **Developer Tools:** Jupyter Notebook, Arduino IDE
 * **Hardware & Microcontrollers:** Raspberry Pi, Arduino
