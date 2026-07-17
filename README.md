@@ -2,7 +2,7 @@
 ### Engineering Student | Learning Data Science & ML
 --- 
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Languages:** Python, C, C++, SQL, Bash
 * **Libraries & Frameworks:** Pandas, NumPy, OpenCV, MediaPipe
