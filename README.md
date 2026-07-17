@@ -2,9 +2,9 @@
 ### Engineering Student | Learning Data Science & ML
 --- 
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117;">
-  <strong>💻 Languages:</strong> Python, C, C++, SQL, Bash <br/><br/>
-  <strong>📚 Libraries & Frameworks:</strong> Pandas, NumPy, OpenCV, MediaPipe <br/><br/>
-  <strong>⚙️ Developer Tools:</strong> Git, Linux, Jupyter Notebook, Arduino IDE <br/><br/>
-  <strong>🔌 Hardware & Microcontrollers:</strong> Raspberry Pi, Arduino
-</div>
+### 🧰 Tech Stack & Tools
+
+* **Languages:** Python, C, C++, SQL, Bash
+* **Libraries & Frameworks:** Pandas, NumPy, OpenCV, MediaPipe
+* **Developer Tools:** Jupyter Notebook, Arduino IDE
+* **Hardware & Microcontrollers:** Raspberry Pi, Arduino
