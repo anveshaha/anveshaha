@@ -1,6 +1,5 @@
 ## Hi, I am Anvesha
 ### Engineering Student | Learning Data Science & ML
---- 
 
 ### Tech Stack & Tools
 
